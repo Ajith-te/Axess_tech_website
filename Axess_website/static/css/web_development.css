@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+
+*{
+    font-family: 'Poppins', sans-serif;
+    text-transform: capitalize;
+    text-decoration: none;
+    list-style: none;
+    text-decoration:none !important;
+}
+
+#navber-icons{
+    color: goldenrod !important;
+}
+
+#navber-icons:hover{
+    border: none !important;
+}
+#icons1 {
+
+    color:blue !important;
+    font-size: 22px;
+    height: 22px;
+    border-radius: 50%;
+
+}
+
+#icons2 {
+    color:blue !important;
+    font-size: 22px;
+    height: 22px;
+    border-radius: 50%;
+
+}
+
+ #icons3 {
+    color:red !important;
+    font-size: 22px;
+    height: 22px;
+
+}
+
+#icons4{
+    color:green !important;
+    font-size: 22px;
+    height: 22px;
+    border-radius: 50%;
+
+}
+
+
+#heading3{
+    justify-content: end !important;
+    align-items: end !important;
+    padding-left: 126px !important;
+}
+
+footer a{
+    text-decoration: none!important;
+    color: white!important;
+    font-weight: bold;
+    text-transform: capitalize;
+    font-size: 14px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+footer a:hover{
+    border-bottom: 1px solid salmon !important;
+    color:chocolate !important
+}
+button{
+    padding: 10px 22px !important;
+}
+
+footer{
+    background-color: darkblue !important;
+    padding-top: 12px !important;
+    padding: 12px 12px !important;
+    text-decoration: none !important;
+}

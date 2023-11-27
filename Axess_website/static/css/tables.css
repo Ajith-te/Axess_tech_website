@@ -1,0 +1,30 @@
+
+.table-responsive {
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch; }
+
+.table {
+  color: #f8f9fe;
+  background-color: #172b4d;
+  border-color: #1f3a68; }
+
+.align-items-center {
+  align-items: center !important; }
+
+
+
+.table-flush td,
+.table-flush th {
+  border-left: 0;
+  border-right: 0; }
+
+.table-flush tbody tr:first-child td,
+.table-flush tbody tr:first-child th {
+  border-top: 0; }
+
+.table-flush tbody tr:last-child td,
+.table-flush tbody tr:last-child th {
+  border-bottom: 0; }
+
